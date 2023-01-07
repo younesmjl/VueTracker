@@ -20,10 +20,10 @@
     "vuex": "4.1.0"
   },
   "devDependencies": {
-    "@babel/core": "7.20.7",
-    "@commitlint/cli": "17.3.0",
-    "@commitlint/config-conventional": "17.3.0",
-    "@commitlint/cz-commitlint": "17.3.0",
+    "@babel/core": "7.20.12",
+    "@commitlint/cli": "17.4.0",
+    "@commitlint/config-conventional": "17.4.0",
+    "@commitlint/cz-commitlint": "17.4.0",
     "@vitejs/plugin-vue": "4.0.0",
     "@vue/babel-plugin-jsx": "1.1.1",
     "@vue/compiler-sfc": "3.2.45",
@@ -39,11 +39,11 @@
     "git-precommit-checks": "3.1.0",
     "husky": "8.0.3",
     "lint-staged": "13.1.0",
-    "prettier": "2.8.1",
+    "prettier": "2.8.2",
     "sass": "1.57.1",
     "standard": "17.0.0",
     "validate-branch-name": "1.3.0",
-    "vite": "4.0.3"
+    "vite": "4.0.4"
   },
   "repository": {
     "type": "git",
