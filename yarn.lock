@@ -1306,22 +1306,22 @@
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-4.2.3.tgz#ee0b6dfcc62fe65364e6395bf38fa2ba10bb44b6"
   integrity sha512-R6JDUfiZbJA9cMiguQ7jxALsgiprjBeHL5ikpXfJCH62pPHtI+JdJ5xWj6Ev73yXSlYl86+blXn1kZHQ7uElxw==
 
-"@vue/babel-helper-vue-transform-on@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.1.3.tgz#600da6cebfae0e7af5baaa2efd07712b9cd308b9"
-  integrity sha512-iSaE7+1+/tPp79XnvsAVjaCjuY7dHjfsArPozi+1USJ1A5lf5JUovCP90Hbc+L9BUSHGlXMEYuQrL2vS3Yz9ow==
+"@vue/babel-helper-vue-transform-on@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.1.5.tgz#a976486b21e108e545524fe41ffe3fc9bbc28c7f"
+  integrity sha512-SgUymFpMoAyWeYWLAY+MkCK3QEROsiUnfaw5zxOVD/M64KQs8D/4oK6Q5omVA2hnvEOE0SCkH2TZxs/jnnUj7w==
 
-"@vue/babel-plugin-jsx@1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.3.tgz#5efc7f05aab83a7ba6452d4194649b4c4d18f9e1"
-  integrity sha512-q4ekWt6KcWmM7GNTZjBO53EOM/5uczu7q1Ks39Sz0d0PJFJ+oNi6xyu17WZ/uoSi/s81ouq99G18cLoEX9X1OA==
+"@vue/babel-plugin-jsx@1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.5.tgz#5088bae7dbb83531d94df3742ff650c12fd54973"
+  integrity sha512-nKs1/Bg9U1n3qSWnsHhCVQtAzI6aQXqua8j/bZrau8ywT1ilXQbK4FwEJGmU8fV7tcpuFvWmmN7TMmV1OBma1g==
   dependencies:
     "@babel/helper-module-imports" "^7.22.5"
     "@babel/plugin-syntax-jsx" "^7.22.5"
     "@babel/template" "^7.22.5"
     "@babel/traverse" "^7.22.5"
     "@babel/types" "^7.22.5"
-    "@vue/babel-helper-vue-transform-on" "^1.1.3"
+    "@vue/babel-helper-vue-transform-on" "^1.1.5"
     camelcase "^6.3.0"
     html-tags "^3.3.1"
     svg-tags "^1.0.0"
@@ -3868,10 +3868,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.2.4.tgz#eca284f75d2965079309dc0ad9255abb2ebc1632"
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
 
-lint-staged@13.2.2:
-  version "13.2.2"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-13.2.2.tgz#5e711d3139c234f73402177be2f8dd312e6508ca"
-  integrity sha512-71gSwXKy649VrSU09s10uAT0rWCcY3aewhMaHyl2N84oBk4Xs9HgxvUp3AYu+bNsK4NrOYYxvSgg7FyGJ+jGcA==
+lint-staged@13.2.3:
+  version "13.2.3"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-13.2.3.tgz#f899aad6c093473467e9c9e316e3c2d8a28f87a7"
+  integrity sha512-zVVEXLuQIhr1Y7R7YAWx4TZLdvuzk7DnmrsTNL0fax6Z3jrpFcas+vKbzxhhvp6TA55m1SQuWkpzI1qbfDZbAg==
   dependencies:
     chalk "5.2.0"
     cli-truncate "^3.1.0"
