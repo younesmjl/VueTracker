@@ -43,7 +43,7 @@
     "sass": "1.64.2",
     "standard": "17.1.0",
     "validate-branch-name": "1.3.0",
-    "vite": "4.4.8"
+    "vite": "4.4.9"
   },
   "repository": {
     "type": "git",
